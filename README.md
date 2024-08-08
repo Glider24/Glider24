@@ -7,7 +7,7 @@ I'm a passionate developer currently pursuing my B.Tech in IT and freelancing in
 
 ![Coding Animation](https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif)
 
-- 💼 Management at **APL eSports**
+- 💼 Operations Manager at **APL eSports**
   
 - 💻 Co-Founder of **eDevelopment**
 
