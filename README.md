@@ -1,7 +1,5 @@
 # Hi there, I'm Glider! 👋
 
-I'm a passionate developer currently pursuing my B.Tech in IT and freelancing in management at APL eSports. I love creating immersive experiences through FiveM roleplay servers and custom Discord bots.
-
 ![Coding Animation](https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif)
 
   
