@@ -9,7 +9,7 @@
 
 - 👩🏻‍💻 Past Developments **FiveM YMaps , Discord Welcome Bot**
 
-- 🌱 I’m currently learning **C , Python & Lua**
+- 🌱 I’m currently learning **C, Java, Python & Lua**
 
 - 📫 How to reach me **chsarthak24@gmail.com**
 
