@@ -7,13 +7,12 @@ I'm a passionate developer currently pursuing my B.Tech in IT and freelancing in
 
 ![Coding Animation](https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif)
 
-- 💼 Operations Manager at **APL eSports**
   
 - 💻 Co-Founder of **eDevelopment**
 
 - 🛠️ Currently working on **eManager Discord Bot**
 
-- 👩🏻‍💻 Developing **FiveM YMaps**
+- 👩🏻‍💻 Past Developments **FiveM YMaps , Discord Welcome Bot**
 
 - 🌱 I’m currently learning **C , Python & Lua**
 
