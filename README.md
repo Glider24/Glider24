@@ -1,6 +1,3 @@
-
-![Coding Animation](https://media.licdn.com/dms/image/D5616AQE9i-mlFj87mg/profile-displaybackgroundimage-shrink_350_1400/0/1720697448546?e=1726099200&v=beta&t=ubo7HWYjuDNKCMSfgBtl3hslQUhJlHHirOW8PWlyeaM)
-
 # Hi there, I'm Glider! 👋
 
 I'm a passionate developer currently pursuing my B.Tech in IT and freelancing in management at APL eSports. I love creating immersive experiences through FiveM roleplay servers and custom Discord bots.
