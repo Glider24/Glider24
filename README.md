@@ -3,9 +3,9 @@
 ![Coding Animation](https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif)
 
   
-- 💻 Co-Founder of **eDevelopment**
+- 💻 Co-Founder of **GorillaX Innovations**
 
-- 🛠️ Currently working on **eManager Discord Bot**
+- 🛠️ Currently working on **GxManager Discord Bot**
 
 - 👩🏻‍💻 Past Developments **FiveM YMaps , Discord Welcome Bot**
 
