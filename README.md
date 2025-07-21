@@ -1,8 +1,6 @@
-# Hi there, I'm Glider! 👋
-
 # 👋 Hi, I’m Sarthak
 
-## 🚀 Developer | Tech Enthusiast | Freelance Discord & FiveM Developer
+## 🚀 Freelancer | Developer | Tech Enthusiast
 
 I’m a passionate developer focused on building high-quality, reliable, and customized solutions for communities and creators.  
 I love solving problems with code — especially in:
@@ -26,13 +24,6 @@ Alongside freelancing, I’m open to opportunities to contribute to exciting pro
 
 - 📧 [Your Email Here]
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourusername)
-- 🗂️ Explore my projects here — contributions, ideas, and feedback are always welcome!
-
----
-
-
-
-## Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/sarthak-chaudhary-1a498222b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarush jain" height="30" width="40" /></a>
 <a href="https://www.instagram.com/i.sarthakchaudhary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aarussh.exe" height="30" width="40" /></a>
