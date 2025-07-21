@@ -1,5 +1,4 @@
-# 👋 Hi, I’m Sarthak
-
+![Project Banner](https://i.vgy.me/tZ670q.png)
 ## 🚀 Freelancer | Developer | Tech Enthusiast
 
 I’m a passionate developer focused on building high-quality, reliable, and customized solutions for communities and creators.  
