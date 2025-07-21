@@ -1,19 +1,36 @@
 # Hi there, I'm Glider! 👋
 
-![Coding Animation](https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif)
+# 👋 Hi, I’m Sarthak
 
-  
-- 💻 Co-Founder of **GorillaX Innovations**
+## 🚀 Developer | Tech Enthusiast | Freelance Discord & FiveM Developer
 
-- 🛠️ Currently working on **GxManager Discord Bot**
+I’m a passionate developer focused on building high-quality, reliable, and customized solutions for communities and creators.  
+I love solving problems with code — especially in:
 
-- 👩🏻‍💻 Past Developments **FiveM YMaps , Discord Welcome Bot**
+- 🤖 **Discord Bots** — automation, moderation, engagement tools
+- 🎮 **FiveM Development** — custom scripts, server-side logic, immersive roleplay features
+- ⚙️ **General Tech Projects** — creative solutions that make life easier for online communities
 
-- 🌱 I’m currently learning **Java & Python**
+## 🌱 Currently Learning
 
-- 📫 How to reach me **chsarthak24@gmail.com**
+I’m always learning — right now I’m sharpening my skills in:
+- Advanced Python & Node.js
+- API integrations
+- Cloud deployments
 
-- ⚡ Fun fact **I am Jaat**
+## 💼 Open to Work
+
+Alongside freelancing, I’m open to opportunities to contribute to exciting projects, collaborate with great teams, and grow as a developer.
+
+## 📫 Let’s Connect
+
+- 📧 [Your Email Here]
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourusername)
+- 🗂️ Explore my projects here — contributions, ideas, and feedback are always welcome!
+
+---
+
+
 
 ## Connect with me
 <p align="left">
@@ -28,3 +45,5 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+Thanks for stopping by! ⭐
